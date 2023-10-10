@@ -1,7 +1,7 @@
 # LazyMouse
 Based on Arduino library [ESP32 BLE Combo Keyboard & Mouse](https://github.com/blackketter/ESP32-BLE-Combo.git) library by blackketter, which is a fork of T-vK Library.
-
-Download and install the libraies before running the code.
+The IMU sensor uses the [MPU6050 library by Electronic Cats](https://github.com/ElectronicCats/mpu6050.git)
+Download and install these libraies before running the code.
 # Features
 1) Air Mouse with Left and Right Clicks 
 2) Vertical and Horizontal Scrolling with Middle Click
